@@ -6,3 +6,7 @@ Business Intelligence Tools
 - Data Studio (formerly known as Google Looker)
 - Power BI
 - ServiceNow Platform Analytics Module
+
+Website Tools
+- SharePoint
+- Wordpress 
