@@ -1,6 +1,7 @@
-## Welcome to my Github! I'm Halianna and I have a passion for using technology to serve my community. Learn more about me here!
+## Hey there I'm Halianna, welcome to my Github!
+I have a passion for using technology to serve my community. 
 
-# Technology Stack I Frequently Use:
+## Technology Stack I Frequently Use:
 Business Intelligence Tools
 - Data Studio (formerly known as Google Looker)
 - Power BI
