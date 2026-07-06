@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github! I'm Halianna and I have a passion for using technology to serve my community. Learn more about me here!
 
 <!--
 **hpiller22/hpiller22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
