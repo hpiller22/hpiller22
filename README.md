@@ -1,5 +1,5 @@
 ## Hey there I'm Halianna, welcome to my Github!
-I have a passion for using technology to serve my community. 
+I have a passion for using technology to serve my community. My scope is mainly under the Business Intelligence sector. However, I consider myself like a handy multitool that 
 
 ## Technology Stack I Frequently Use:
 Business Intelligence Tools
