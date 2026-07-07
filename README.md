@@ -10,3 +10,8 @@ Business Intelligence Tools 📊
 Website Tools 🌐
 - SharePoint
 - Wordpress 
+
+Other Tools 🔨
+- Microsoft Excel
+- Google Sheets
+- Microsoft Fabric 
